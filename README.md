@@ -1,2 +1,2 @@
 # detached-head
-Let's play with detached HEAD.
+Let's play with detached HEAD
